@@ -1,6 +1,6 @@
 <p align="center">
-      <img alt="Swiftfin" height="125" src="https://github.com/jellyfin/Swiftfin/blob/main/Swiftfin/Assets.xcassets/AppIcon.appiconset/152.png">
-  <h2 align="center">Swiftfin</h2>
+      <img alt="Macfin" height="125" src="https://github.com/jellyfin/Macfin/blob/main/Macfin/Assets.xcassets/AppIcon.appiconset/152.png">
+  <h2 align="center">Macfin</h2>
   <a href="https://translate.jellyfin.org/engage/swiftfin/">
     <img src="https://translate.jellyfin.org/widgets/swiftfin/-/svg-badge.svg"/>
   </a>
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <b>Swiftfin</b> is a modern video client for the <a href="https://github.com/jellyfin/jellyfin">Jellyfin</a> media server. Redesigned in Swift to maximize direct play with the power of <b>VLC</b> and look <b>native</b> on all classes of Apple devices.
+  <b>Macfin</b> is a modern video client for the <a href="https://github.com/jellyfin/jellyfin">Jellyfin</a> media server. Redesigned in Swift to maximize direct play with the power of <b>VLC</b> and look <b>native</b> on all classes of Apple devices.
 </p>
 
 ## ⚡️ TestFlight
@@ -27,9 +27,9 @@ If you have an Apple TV and do not own an iOS device, please use this [Google Fo
 
 ## 📚 Translations
 
-**Don't see Swiftfin in your language?**
+**Don't see Macfin in your language?**
 
-Check out our [Weblate instance](https://translate.jellyfin.org/projects/swiftfin/) to help translate Swiftfin and other projects.
+Check out our [Weblate instance](https://translate.jellyfin.org/projects/swiftfin/) to help translate Macfin and other projects.
 
 <a href="https://translate.jellyfin.org/engage/swiftfin/">
 <img src="https://translate.jellyfin.org/widgets/swiftfin/-/multi-auto.svg"/>
@@ -37,4 +37,4 @@ Check out our [Weblate instance](https://translate.jellyfin.org/projects/swiftfi
 
 ## ⚙️ Development
 
-Thank you for your interest in Swiftfin! Please check out the [Contribution Guidelines](https://github.com/jellyfin/Swiftfin/blob/main/contributing.md) to get started.
+Thank you for your interest in Macfin! Please check out the [Contribution Guidelines](https://github.com/jellyfin/Macfin/blob/main/contributing.md) to get started.
